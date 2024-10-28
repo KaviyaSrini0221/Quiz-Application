@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" type="text/css" href="style1.css">
+<script src="script.js" defer></script>
+<title>Interactive Multilevel Quiz</title>
+</head>
+<body>
+<div class="welcome-container" id="welcome-container">
+  <h2 class="welcome-heading">Welcome to the Interactive Multilevel Quiz</h2>
+  <div class="input-group">
+    <label for="name">Name:</label>
+    <input type="text" id="name">
+  </div>
+  <div class="input-group">
+    <label for="regNum">Registration Number:</label>
+    <input type="text" id="regNum">
+  </div>
+  <button class="start-button" onclick="startQuiz()">Start Quiz</button>
+</div>
+
+<div class="quiz-container" id="quiz-container">
+  <div class="question" id="question">Question Goes Here</div>
+  <div class="options" id="options"></div>
+  <button onclick="checkAnswer()">Next</button>
+  <div class="result" id="result"></div>
+  <div class="score" id="score">Score: 0</div>
+</div>
+
+<div class="circle"></div>
+</body>
+</html>
+

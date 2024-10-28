@@ -1,0 +1,99 @@
+ body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  .welcome-container {
+    max-width: 500px;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  .welcome-heading {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  .input-group {
+    margin-bottom: 20px;
+  }
+  .input-group label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  .input-group input {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  .start-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  .start-button:hover {
+    background-color: #45a049;
+  }
+  .quiz-container {
+    display: none;
+    max-width: 500px;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  .question {
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+  .options label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  .result {
+    font-weight: bold;
+    margin-top: 20px;
+  }
+  .circle {
+    --circle-size: 40px;
+    position: fixed;
+    width: var(--circle-size);
+    height: var(--circle-size);
+    border: 3px solid #4943b8d7;
+    border-radius: 100%;
+    top: calc(var(--circle-size)/ 2 * -1);
+    left: calc(var(--circle-size)/ 2 * -1);
+    pointer-events: none;
+  }
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  button:hover {
+    background-color: #45a049;
+  }
+  .result {
+    font-weight: bold;
+    margin-top: 20px;
+  }

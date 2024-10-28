@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="https://unpkg.com/boxicons@latest/css/boxicons.min.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@3.2.0/fonts/remixicon.css">
+  <link rel="stylesheet" href="Index.css" />
+  <title>Online quiz generator</title>
+</head>
+
+<body>
+  <!--  Focuses on the header part of the website  -->
+  <header>
+    <a href="#" class="Logo">QUIZZY</a>
+    <nav class="navbar">
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li class="dropdown">
+          <a href="#" class="dropbtn">Categories</a>
+          <div class="dropdown-content">
+            <a href="#">Mathematics</a>
+            <a href="#">English</a>
+            <a href="#">Physics</a>
+            <a href="#">Chemistry</a>
+            <a href="#">Biology</a>
+            <a href="#">Computer Science</a>
+          </div>
+        </li>
+        <li><a href="#">Your stats</a></li>
+        <li><a href="#">About</a></li>
+      </ul>
+    </nav>
+    <div class="right-nav">
+        <a href="https://www.instagram.com/" target="_blank"><i class="ri-instagram-line"></i></a>
+        <a href="https://x.com/kaviyasrin28623?s=21" target="_blank"><i class="ri-twitter-line"></i></a>
+        <a href="https://www.facebook.com/share/hgaJGPo93ezjWfo6/?mibextid=WC7FNe" target="_blank"><i class="ri-facebook-circle-line"></i></a>
+    </div>
+  </header>
+
+  <!--    Focuses on the body where quizzes are being generated       -->
+    <main>
+      <section class="quiz">
+        <h1>Quiz Title</h1>
+        <form name="questions" method="post" action="app.php" class="quiz-form">
+          <fieldset>
+            <!-- here the question number should be placed -->
+            <legend>Questions</legend> 
+            <label>question need to be written</label><br>
+            <label>
+              <input type="radio" name="q1" value="a">
+              Answer A
+            </label><br>
+            <label>
+              <input type="radio" name="q1" value="b">
+              Answer B
+            </label><br>
+            <label>
+              <input type="radio" name="q1" value="c">
+              Answer C
+            </label><br>
+            <label>
+              <input type="radio" name="q1" value="d">
+              Answer D
+            </label>
+          </fieldset>
+          <button onclick="checkAnswer()">Next</button>
+          <div class="result" id="result"></div>
+          <div class="score" id="score">Score: 0</div>
+        </form>
+      </section>
+    </main>
+  
+  <!-- Focuses on the footer part of the website -->
+  <section class="footer">
+    <div class="footer-box">
+      <h3>About Us</h3>
+      <a href="#">Privacy policies</a>
+      <a href="#">Terms of service</a>
+      <a href="#">FAQ</a>
+    </div>
+    <div class="footer-box">
+      <h3>Social</h3>
+      <div class="social">
+        <a href="https://www.instagram.com/" target="_blank"><i class="ri-instagram-line"></i></a>
+        <a href="https://x.com/kaviyasrin28623?s=21" target="_blank"><i class="ri-twitter-line"></i></a>
+        <a href="https://www.facebook.com/share/hgaJGPo93ezjWfo6/?mibextid=WC7FNe" target="_blank"><i class="ri-facebook-circle-line"></i></a>
+      </div>
+    </div>
+    <div class="footer-box">
+      <h3>Contact us</h3>
+      <a>Address: Dubai main road, Dubai.</a>
+      <a>Phone number: +91 81481 18100</a>
+      <a>Email: kaviyasrini0221@gmail.com</a>
+      </div>
+    </section>
+  <!-- copyrights -->
+  <div class="copyright">
+    <h4>© 2024 QuizApp. All rights reserved.</h4>
+  </div>
+
+  <script src="Script1.js" defer></script>
+</body>
+</html>
