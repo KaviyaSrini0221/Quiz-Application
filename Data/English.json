@@ -1,0 +1,632 @@
+[
+    {
+        "question": "Change the voice: 'The teacher gave the students homework.'",
+        "answers": [
+            {
+                "text": "The students are given homework by the teacher.",
+                "correct": false
+            },
+            {
+                "text": "Homework was given to the students by the teacher.",
+                "correct": true
+            },
+            {
+                "text": "The teacher is giving the students homework.",
+                "correct": false
+            },
+            {
+                "text": "Homework is being given to the students by the teacher.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Identify the sentence type: 'She danced and he sang.'",
+        "answers": [
+            {
+                "text": "Simple sentence",
+                "correct": false
+            },
+            {
+                "text": "Compound sentence",
+                "correct": true
+            },
+            {
+                "text": "Complex sentence",
+                "correct": false
+            },
+            {
+                "text": "Compound-complex sentence",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Convert to indirect speech: 'She said, \"I am studying.\"'",
+        "answers": [
+            {
+                "text": "She said that she is studying.",
+                "correct": false
+            },
+            {
+                "text": "She said that she was studying.",
+                "correct": true
+            },
+            {
+                "text": "She says that she is studying.",
+                "correct": false
+            },
+            {
+                "text": "She was saying that she was studying.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Choose the correct preposition: 'She is good ___ painting.'",
+        "answers": [
+            {
+                "text": "on",
+                "correct": false
+            },
+            {
+                "text": "at",
+                "correct": true
+            },
+            {
+                "text": "in",
+                "correct": false
+            },
+            {
+                "text": "for",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Identify the conjunction: 'I will go to the park if it stops raining.'",
+        "answers": [
+            {
+                "text": "will",
+                "correct": false
+            },
+            {
+                "text": "to",
+                "correct": false
+            },
+            {
+                "text": "if",
+                "correct": true
+            },
+            {
+                "text": "it",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Select the synonym of 'abundant':",
+        "answers": [
+            {
+                "text": "scarce",
+                "correct": false
+            },
+            {
+                "text": "plentiful",
+                "correct": true
+            },
+            {
+                "text": "rare",
+                "correct": false
+            },
+            {
+                "text": "little",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Select the antonym of 'benevolent':",
+        "answers": [
+            {
+                "text": "malicious",
+                "correct": true
+            },
+            {
+                "text": "kind",
+                "correct": false
+            },
+            {
+                "text": "caring",
+                "correct": false
+            },
+            {
+                "text": "benevolent",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Change the voice: 'The cake was eaten by the children.'",
+        "answers": [
+            {
+                "text": "The children ate the cake.",
+                "correct": true
+            },
+            {
+                "text": "The cake is eaten by the children.",
+                "correct": false
+            },
+            {
+                "text": "The children are eating the cake.",
+                "correct": false
+            },
+            {
+                "text": "The cake was being eaten by the children.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Identify the sentence type: 'Though he was tired, he kept working.'",
+        "answers": [
+            {
+                "text": "Simple sentence",
+                "correct": false
+            },
+            {
+                "text": "Compound sentence",
+                "correct": false
+            },
+            {
+                "text": "Complex sentence",
+                "correct": true
+            },
+            {
+                "text": "Compound-complex sentence",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Convert to indirect speech: 'He said, \"I will help you tomorrow.\"'",
+        "answers": [
+            {
+                "text": "He said that he will help me tomorrow.",
+                "correct": false
+            },
+            {
+                "text": "He said that he would help me tomorrow.",
+                "correct": true
+            },
+            {
+                "text": "He says that he will help me tomorrow.",
+                "correct": false
+            },
+            {
+                "text": "He was saying that he would help me tomorrow.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Choose the correct preposition: 'She is afraid ___ the dark.'",
+        "answers": [
+            {
+                "text": "in",
+                "correct": false
+            },
+            {
+                "text": "at",
+                "correct": false
+            },
+            {
+                "text": "of",
+                "correct": true
+            },
+            {
+                "text": "with",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Identify the conjunction: 'You can come with me or stay here.'",
+        "answers": [
+            {
+                "text": "can",
+                "correct": false
+            },
+            {
+                "text": "with",
+                "correct": false
+            },
+            {
+                "text": "or",
+                "correct": true
+            },
+            {
+                "text": "here",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Select the synonym of 'melancholy':",
+        "answers": [
+            {
+                "text": "happy",
+                "correct": false
+            },
+            {
+                "text": "sad",
+                "correct": true
+            },
+            {
+                "text": "angry",
+                "correct": false
+            },
+            {
+                "text": "excited",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Select the antonym of 'ancient':",
+        "answers": [
+            {
+                "text": "old",
+                "correct": false
+            },
+            {
+                "text": "modern",
+                "correct": true
+            },
+            {
+                "text": "historical",
+                "correct": false
+            },
+            {
+                "text": "antique",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Change the voice: 'She will complete the project by tomorrow.'",
+        "answers": [
+            {
+                "text": "The project will be completed by her by tomorrow.",
+                "correct": true
+            },
+            {
+                "text": "The project is completed by her by tomorrow.",
+                "correct": false
+            },
+            {
+                "text": "She completes the project by tomorrow.",
+                "correct": false
+            },
+            {
+                "text": "The project has been completed by her by tomorrow.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Identify the sentence type: 'I read the book, and I watched the movie.'",
+        "answers": [
+            {
+                "text": "Simple sentence",
+                "correct": false
+            },
+            {
+                "text": "Compound sentence",
+                "correct": true
+            },
+            {
+                "text": "Complex sentence",
+                "correct": false
+            },
+            {
+                "text": "Compound-complex sentence",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Change the voice: 'The teacher praised the student.'",
+        "answers": [
+            {
+                "text": "The student praises the teacher.",
+                "correct": false
+            },
+            {
+                "text": "The student was praised by the teacher.",
+                "correct": true
+            },
+            {
+                "text": "The teacher was praised by the student.",
+                "correct": false
+            },
+            {
+                "text": "The student praises the teacher by himself.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Identify the conjunction in the sentence: 'She went to the market and bought some fruits.'",
+        "answers": [
+            {
+                "text": "went",
+                "correct": false
+            },
+            {
+                "text": "and",
+                "correct": true
+            },
+            {
+                "text": "bought",
+                "correct": false
+            },
+            {
+                "text": "some",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Choose the correct preposition: 'He is good ____ mathematics.'",
+        "answers": [
+            {
+                "text": "in",
+                "correct": false
+            },
+            {
+                "text": "at",
+                "correct": true
+            },
+            {
+                "text": "on",
+                "correct": false
+            },
+            {
+                "text": "with",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Convert to indirect speech: 'He said, \"I am going to school.\"'",
+        "answers": [
+            {
+                "text": "He said that he is going to school.",
+                "correct": false
+            },
+            {
+                "text": "He said that he was going to school.",
+                "correct": true
+            },
+            {
+                "text": "He said that I am going to school.",
+                "correct": false
+            },
+            {
+                "text": "He said that you are going to school.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Identify the synonym for 'happy'.",
+        "answers": [
+            {
+                "text": "joyful",
+                "correct": true
+            },
+            {
+                "text": "sad",
+                "correct": false
+            },
+            {
+                "text": "angry",
+                "correct": false
+            },
+            {
+                "text": "tired",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Identify the antonym for 'dangerous'.",
+        "answers": [
+            {
+                "text": "safe",
+                "correct": true
+            },
+            {
+                "text": "risky",
+                "correct": false
+            },
+            {
+                "text": "harmful",
+                "correct": false
+            },
+            {
+                "text": "perilous",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What type of sentence is this: 'Although it was raining, we went out.'",
+        "answers": [
+            {
+                "text": "Simple sentence",
+                "correct": false
+            },
+            {
+                "text": "Compound sentence",
+                "correct": false
+            },
+            {
+                "text": "Complex sentence",
+                "correct": true
+            },
+            {
+                "text": "Compound-complex sentence",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Change the voice: 'The ball was kicked by the boy.'",
+        "answers": [
+            {
+                "text": "The boy kicks the ball.",
+                "correct": false
+            },
+            {
+                "text": "The boy has kicked the ball.",
+                "correct": false
+            },
+            {
+                "text": "The boy will kick the ball.",
+                "correct": false
+            },
+            {
+                "text": "The boy kicked the ball.",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Choose the correct preposition: 'The cat is sitting ____ the chair.'",
+        "answers": [
+            {
+                "text": "under",
+                "correct": true
+            },
+            {
+                "text": "over",
+                "correct": false
+            },
+            {
+                "text": "by",
+                "correct": false
+            },
+            {
+                "text": "on",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which sentence uses the correct form of 'its' or 'it's'?",
+        "answers": [
+            {
+                "text": "Its a beautiful day.",
+                "correct": false
+            },
+            {
+                "text": "It's raining outside.",
+                "correct": true
+            },
+            {
+                "text": "Its' time to go.",
+                "correct": false
+            },
+            {
+                "text": "The cat loves it's toy.",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Convert to direct speech: 'She said that she was happy.'",
+        "answers": [
+            {
+                "text": "She said, 'I am happy.'",
+                "correct": true
+            },
+            {
+                "text": "She said, 'She is happy.'",
+                "correct": false
+            },
+            {
+                "text": "She said, 'I was happy.'",
+                "correct": false
+            },
+            {
+                "text": "She said, 'She was happy.'",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Identify the conjunction in this sentence: 'I will go out if it stops raining.'",
+        "answers": [
+            {
+                "text": "will",
+                "correct": false
+            },
+            {
+                "text": "if",
+                "correct": true
+            },
+            {
+                "text": "go",
+                "correct": false
+            },
+            {
+                "text": "out",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Choose the correct preposition: 'The book is ____ the table.'",
+        "answers": [
+            {
+                "text": "in",
+                "correct": false
+            },
+            {
+                "text": "on",
+                "correct": true
+            },
+            {
+                "text": "by",
+                "correct": false
+            },
+            {
+                "text": "over",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Change the voice: 'The letter was written by John.'",
+        "answers": [
+            {
+                "text": "John writes the letter.",
+                "correct": false
+            },
+            {
+                "text": "John was writing the letter.",
+                "correct": false
+            },
+            {
+                "text": "John wrote the letter.",
+                "correct": true
+            },
+            {
+                "text": "John is writing the letter.",
+                "correct": false
+            }
+        ]
+    }
+]

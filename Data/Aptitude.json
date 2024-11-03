@@ -1,0 +1,632 @@
+[
+    {
+        "question": "A train running at 60 km/h crosses a pole in 9 seconds. What is the length of the train?",
+        "answers": [
+            {
+                "text": "150 meters",
+                "correct": false
+            },
+            {
+                "text": "120 meters",
+                "correct": true
+            },
+            {
+                "text": "100 meters",
+                "correct": false
+            },
+            {
+                "text": "90 meters",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the next number in the series: 2, 6, 12, 20, 30, ...?",
+        "answers": [
+            {
+                "text": "42",
+                "correct": true
+            },
+            {
+                "text": "40",
+                "correct": false
+            },
+            {
+                "text": "36",
+                "correct": false
+            },
+            {
+                "text": "48",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A man buys a watch for $200 and sells it for $240. What is his profit percentage?",
+        "answers": [
+            {
+                "text": "20%",
+                "correct": true
+            },
+            {
+                "text": "25%",
+                "correct": false
+            },
+            {
+                "text": "15%",
+                "correct": false
+            },
+            {
+                "text": "30%",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "If the ratio of the ages of two persons is 3:5 and the sum of their ages is 40, what are their ages?",
+        "answers": [
+            {
+                "text": "15 and 25",
+                "correct": true
+            },
+            {
+                "text": "18 and 22",
+                "correct": false
+            },
+            {
+                "text": "20 and 20",
+                "correct": false
+            },
+            {
+                "text": "12 and 28",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A bag contains 5 red balls and 7 blue balls. What is the probability of drawing a red ball?",
+        "answers": [
+            {
+                "text": "5/12",
+                "correct": true
+            },
+            {
+                "text": "7/12",
+                "correct": false
+            },
+            {
+                "text": "1/2",
+                "correct": false
+            },
+            {
+                "text": "3/5",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the value of x if 2x + 3 = 9?",
+        "answers": [
+            {
+                "text": "3",
+                "correct": false
+            },
+            {
+                "text": "2",
+                "correct": true
+            },
+            {
+                "text": "1",
+                "correct": false
+            },
+            {
+                "text": "4",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "If 6 men can do a piece of work in 10 days, in how many days can 15 men do the same work?",
+        "answers": [
+            {
+                "text": "4 days",
+                "correct": true
+            },
+            {
+                "text": "5 days",
+                "correct": false
+            },
+            {
+                "text": "6 days",
+                "correct": false
+            },
+            {
+                "text": "3 days",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What will come in place of the question mark in the following number series: 12, 25, 51, ?, 213?",
+        "answers": [
+            {
+                "text": "104",
+                "correct": false
+            },
+            {
+                "text": "102",
+                "correct": true
+            },
+            {
+                "text": "100",
+                "correct": false
+            },
+            {
+                "text": "98",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A car covers a distance of 540 km in 6 hours. What is its speed?",
+        "answers": [
+            {
+                "text": "80 km/h",
+                "correct": false
+            },
+            {
+                "text": "90 km/h",
+                "correct": true
+            },
+            {
+                "text": "85 km/h",
+                "correct": false
+            },
+            {
+                "text": "95 km/h",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A person travels 10 km north, then turns right and travels 5 km, then turns left and travels 15 km. How far is he from the starting point?",
+        "answers": [
+            {
+                "text": "20 km",
+                "correct": false
+            },
+            {
+                "text": "25 km",
+                "correct": false
+            },
+            {
+                "text": "30 km",
+                "correct": true
+            },
+            {
+                "text": "35 km",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "If a sum of money doubles itself in 5 years at simple interest, what is the rate of interest per annum?",
+        "answers": [
+            {
+                "text": "20%",
+                "correct": true
+            },
+            {
+                "text": "25%",
+                "correct": false
+            },
+            {
+                "text": "15%",
+                "correct": false
+            },
+            {
+                "text": "10%",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "The average of five numbers is 27. If one number is excluded, the average becomes 25. What is the excluded number?",
+        "answers": [
+            {
+                "text": "32",
+                "correct": false
+            },
+            {
+                "text": "35",
+                "correct": false
+            },
+            {
+                "text": "37",
+                "correct": true
+            },
+            {
+                "text": "40",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "If the selling price of an article is Rs. 500 and the profit is 25%, what is the cost price?",
+        "answers": [
+            {
+                "text": "Rs. 375",
+                "correct": true
+            },
+            {
+                "text": "Rs. 400",
+                "correct": false
+            },
+            {
+                "text": "Rs. 450",
+                "correct": false
+            },
+            {
+                "text": "Rs. 350",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "The ratio of two numbers is 3:4 and their sum is 140. What is the greater number?",
+        "answers": [
+            {
+                "text": "60",
+                "correct": false
+            },
+            {
+                "text": "70",
+                "correct": false
+            },
+            {
+                "text": "80",
+                "correct": true
+            },
+            {
+                "text": "90",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "If 3x - 2y = 6 and x + y = 4, what is the value of x?",
+        "answers": [
+            {
+                "text": "2",
+                "correct": false
+            },
+            {
+                "text": "3",
+                "correct": true
+            },
+            {
+                "text": "4",
+                "correct": false
+            },
+            {
+                "text": "5",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "If 5x - 2 = 13, what is the value of x?",
+        "answers": [
+            {
+                "text": "3",
+                "correct": true
+            },
+            {
+                "text": "4",
+                "correct": false
+            },
+            {
+                "text": "5",
+                "correct": false
+            },
+            {
+                "text": "2",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "In a code language, if TREE is written as UQFF, how is MANGO written?",
+        "answers": [
+            {
+                "text": "NBOPH",
+                "correct": false
+            },
+            {
+                "text": "NBOHP",
+                "correct": true
+            },
+            {
+                "text": "OBNHP",
+                "correct": false
+            },
+            {
+                "text": "NBOHH",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "If the ratio of the ages of two friends is 4:5 and the sum of their ages is 45, what is the age of the younger friend?",
+        "answers": [
+            {
+                "text": "20",
+                "correct": false
+            },
+            {
+                "text": "18",
+                "correct": true
+            },
+            {
+                "text": "15",
+                "correct": false
+            },
+            {
+                "text": "25",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What number should come next in the series: 1, 4, 9, 16, 25, ...?",
+        "answers": [
+            {
+                "text": "36",
+                "correct": true
+            },
+            {
+                "text": "49",
+                "correct": false
+            },
+            {
+                "text": "30",
+                "correct": false
+            },
+            {
+                "text": "32",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A man spends 70% of his income. If his income is $5000, what amount does he save?",
+        "answers": [
+            {
+                "text": "$1500",
+                "correct": true
+            },
+            {
+                "text": "$2000",
+                "correct": false
+            },
+            {
+                "text": "$3000",
+                "correct": false
+            },
+            {
+                "text": "$3500",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "In a row of boys, John is 7th from the left and 10th from the right. How many boys are there in the row?",
+        "answers": [
+            {
+                "text": "16",
+                "correct": false
+            },
+            {
+                "text": "17",
+                "correct": true
+            },
+            {
+                "text": "18",
+                "correct": false
+            },
+            {
+                "text": "19",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "If A is coded as Z, B is coded as Y, and so on, what is the code for CAT?",
+        "answers": [
+            {
+                "text": "XZG",
+                "correct": false
+            },
+            {
+                "text": "XZW",
+                "correct": false
+            },
+            {
+                "text": "XZA",
+                "correct": false
+            },
+            {
+                "text": "XZG",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "A person covers a distance of 100 km in 2 hours and another 50 km in 1 hour. What is his average speed?",
+        "answers": [
+            {
+                "text": "75 km/h",
+                "correct": false
+            },
+            {
+                "text": "50 km/h",
+                "correct": true
+            },
+            {
+                "text": "60 km/h",
+                "correct": false
+            },
+            {
+                "text": "55 km/h",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "In a family of 6 members, A is the father of B. C is the son of D. E is the daughter of A. F is the husband of D. How is A related to D?",
+        "answers": [
+            {
+                "text": "Brother",
+                "correct": false
+            },
+            {
+                "text": "Husband",
+                "correct": true
+            },
+            {
+                "text": "Father",
+                "correct": false
+            },
+            {
+                "text": "Son",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "If the selling price of an article is Rs. 750 and the profit is 25%, what is the cost price?",
+        "answers": [
+            {
+                "text": "Rs. 600",
+                "correct": true
+            },
+            {
+                "text": "Rs. 650",
+                "correct": false
+            },
+            {
+                "text": "Rs. 700",
+                "correct": false
+            },
+            {
+                "text": "Rs. 800",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A clock gains 2 minutes every hour. What will be the time after 6 hours if the current time is 6:00 AM?",
+        "answers": [
+            {
+                "text": "6:12 AM",
+                "correct": false
+            },
+            {
+                "text": "12:12 PM",
+                "correct": true
+            },
+            {
+                "text": "12:02 PM",
+                "correct": false
+            },
+            {
+                "text": "1:00 PM",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "If the sum of two numbers is 25 and their difference is 5, what are the numbers?",
+        "answers": [
+            {
+                "text": "10 and 15",
+                "correct": true
+            },
+            {
+                "text": "12 and 13",
+                "correct": false
+            },
+            {
+                "text": "20 and 5",
+                "correct": false
+            },
+            {
+                "text": "11 and 14",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which number comes next in the series: 5, 10, 20, 40, ...?",
+        "answers": [
+            {
+                "text": "50",
+                "correct": false
+            },
+            {
+                "text": "60",
+                "correct": false
+            },
+            {
+                "text": "80",
+                "correct": true
+            },
+            {
+                "text": "100",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "A person travels 30 km at 60 km/h and another 30 km at 30 km/h. What is his average speed?",
+        "answers": [
+            {
+                "text": "40 km/h",
+                "correct": false
+            },
+            {
+                "text": "45 km/h",
+                "correct": false
+            },
+            {
+                "text": "30 km/h",
+                "correct": true
+            },
+            {
+                "text": "50 km/h",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "In a school, there are 200 students, and the ratio of boys to girls is 3:2. How many boys are there?",
+        "answers": [
+            {
+                "text": "80",
+                "correct": false
+            },
+            {
+                "text": "120",
+                "correct": true
+            },
+            {
+                "text": "150",
+                "correct": false
+            },
+            {
+                "text": "90",
+                "correct": false
+            }
+        ]
+    }
+]

@@ -1,0 +1,632 @@
+[
+    {
+        "question": "What is the powerhouse of the cell?",
+        "answers": [
+            {
+                "text": "Nucleus",
+                "correct": false
+            },
+            {
+                "text": "Mitochondria",
+                "correct": true
+            },
+            {
+                "text": "Ribosomes",
+                "correct": false
+            },
+            {
+                "text": "Endoplasmic reticulum",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the basic unit of life?",
+        "answers": [
+            {
+                "text": "Organ",
+                "correct": false
+            },
+            {
+                "text": "Tissue",
+                "correct": false
+            },
+            {
+                "text": "Cell",
+                "correct": true
+            },
+            {
+                "text": "Organism",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What molecule carries genetic information?",
+        "answers": [
+            {
+                "text": "RNA",
+                "correct": false
+            },
+            {
+                "text": "Protein",
+                "correct": false
+            },
+            {
+                "text": "DNA",
+                "correct": true
+            },
+            {
+                "text": "Lipid",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which process do plants use to convert sunlight into food?",
+        "answers": [
+            {
+                "text": "Photosynthesis",
+                "correct": true
+            },
+            {
+                "text": "Respiration",
+                "correct": false
+            },
+            {
+                "text": "Transpiration",
+                "correct": false
+            },
+            {
+                "text": "Glycolysis",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which organ in the human body is primarily responsible for detoxification?",
+        "answers": [
+            {
+                "text": "Kidneys",
+                "correct": false
+            },
+            {
+                "text": "Liver",
+                "correct": true
+            },
+            {
+                "text": "Lungs",
+                "correct": false
+            },
+            {
+                "text": "Heart",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the main component of the cell membrane?",
+        "answers": [
+            {
+                "text": "Proteins",
+                "correct": false
+            },
+            {
+                "text": "Carbohydrates",
+                "correct": false
+            },
+            {
+                "text": "Lipids",
+                "correct": true
+            },
+            {
+                "text": "Nucleic acids",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What blood type is known as the universal donor?",
+        "answers": [
+            {
+                "text": "A",
+                "correct": false
+            },
+            {
+                "text": "B",
+                "correct": false
+            },
+            {
+                "text": "AB",
+                "correct": false
+            },
+            {
+                "text": "O",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "Which part of the plant is responsible for photosynthesis?",
+        "answers": [
+            {
+                "text": "Roots",
+                "correct": false
+            },
+            {
+                "text": "Stem",
+                "correct": false
+            },
+            {
+                "text": "Leaves",
+                "correct": true
+            },
+            {
+                "text": "Flowers",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which enzyme breaks down starch into sugar?",
+        "answers": [
+            {
+                "text": "Lipase",
+                "correct": false
+            },
+            {
+                "text": "Protease",
+                "correct": false
+            },
+            {
+                "text": "Amylase",
+                "correct": true
+            },
+            {
+                "text": "Maltase",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the largest organ in the human body?",
+        "answers": [
+            {
+                "text": "Liver",
+                "correct": false
+            },
+            {
+                "text": "Skin",
+                "correct": true
+            },
+            {
+                "text": "Brain",
+                "correct": false
+            },
+            {
+                "text": "Heart",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which process involves the division of a cell's nucleus?",
+        "answers": [
+            {
+                "text": "Cytokinesis",
+                "correct": false
+            },
+            {
+                "text": "Meiosis",
+                "correct": true
+            },
+            {
+                "text": "Mitosis",
+                "correct": true
+            },
+            {
+                "text": "Binary fission",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What type of blood vessels carry blood away from the heart?",
+        "answers": [
+            {
+                "text": "Veins",
+                "correct": false
+            },
+            {
+                "text": "Arteries",
+                "correct": true
+            },
+            {
+                "text": "Capillaries",
+                "correct": false
+            },
+            {
+                "text": "Lymphatics",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the function of red blood cells?",
+        "answers": [
+            {
+                "text": "Fight infections",
+                "correct": false
+            },
+            {
+                "text": "Transport oxygen",
+                "correct": true
+            },
+            {
+                "text": "Clot blood",
+                "correct": false
+            },
+            {
+                "text": "Remove waste",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which organ system is responsible for transporting nutrients, gases, and wastes?",
+        "answers": [
+            {
+                "text": "Digestive system",
+                "correct": false
+            },
+            {
+                "text": "Respiratory system",
+                "correct": false
+            },
+            {
+                "text": "Circulatory system",
+                "correct": true
+            },
+            {
+                "text": "Excretory system",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the primary function of the roots in a plant?",
+        "answers": [
+            {
+                "text": "Photosynthesis",
+                "correct": false
+            },
+            {
+                "text": "Reproduction",
+                "correct": false
+            },
+            {
+                "text": "Absorb water and nutrients",
+                "correct": true
+            },
+            {
+                "text": "Support leaves",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which part of the cell contains the genetic material?",
+        "answers": [
+            {
+                "text": "Cytoplasm",
+                "correct": false
+            },
+            {
+                "text": "Nucleus",
+                "correct": true
+            },
+            {
+                "text": "Cell membrane",
+                "correct": false
+            },
+            {
+                "text": "Mitochondria",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the process by which plants lose water through their leaves?",
+        "answers": [
+            {
+                "text": "Transpiration",
+                "correct": true
+            },
+            {
+                "text": "Respiration",
+                "correct": false
+            },
+            {
+                "text": "Photosynthesis",
+                "correct": false
+            },
+            {
+                "text": "Glycolysis",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the main function of white blood cells?",
+        "answers": [
+            {
+                "text": "Transport oxygen",
+                "correct": false
+            },
+            {
+                "text": "Fight infections",
+                "correct": true
+            },
+            {
+                "text": "Clot blood",
+                "correct": false
+            },
+            {
+                "text": "Store energy",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which organ system removes waste products from the blood?",
+        "answers": [
+            {
+                "text": "Respiratory system",
+                "correct": false
+            },
+            {
+                "text": "Digestive system",
+                "correct": false
+            },
+            {
+                "text": "Excretory system",
+                "correct": true
+            },
+            {
+                "text": "Nervous system",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What type of macromolecule are enzymes?",
+        "answers": [
+            {
+                "text": "Lipids",
+                "correct": false
+            },
+            {
+                "text": "Proteins",
+                "correct": true
+            },
+            {
+                "text": "Carbohydrates",
+                "correct": false
+            },
+            {
+                "text": "Nucleic acids",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which gas is produced by plants during photosynthesis?",
+        "answers": [
+            {
+                "text": "Oxygen",
+                "correct": true
+            },
+            {
+                "text": "Carbon dioxide",
+                "correct": false
+            },
+            {
+                "text": "Nitrogen",
+                "correct": false
+            },
+            {
+                "text": "Methane",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the largest artery in the human body?",
+        "answers": [
+            {
+                "text": "Carotid artery",
+                "correct": false
+            },
+            {
+                "text": "Femoral artery",
+                "correct": false
+            },
+            {
+                "text": "Aorta",
+                "correct": true
+            },
+            {
+                "text": "Pulmonary artery",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which organ is primarily responsible for filtering blood?",
+        "answers": [
+            {
+                "text": "Heart",
+                "correct": false
+            },
+            {
+                "text": "Liver",
+                "correct": false
+            },
+            {
+                "text": "Kidneys",
+                "correct": true
+            },
+            {
+                "text": "Lungs",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the term for the movement of water across a semipermeable membrane?",
+        "answers": [
+            {
+                "text": "Diffusion",
+                "correct": false
+            },
+            {
+                "text": "Osmosis",
+                "correct": true
+            },
+            {
+                "text": "Active transport",
+                "correct": false
+            },
+            {
+                "text": "Facilitated diffusion",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which macromolecule serves as the primary energy source for the body?",
+        "answers": [
+            {
+                "text": "Proteins",
+                "correct": false
+            },
+            {
+                "text": "Carbohydrates",
+                "correct": true
+            },
+            {
+                "text": "Lipids",
+                "correct": false
+            },
+            {
+                "text": "Nucleic acids",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which organ produces insulin?",
+        "answers": [
+            {
+                "text": "Liver",
+                "correct": false
+            },
+            {
+                "text": "Pancreas",
+                "correct": true
+            },
+            {
+                "text": "Kidneys",
+                "correct": false
+            },
+            {
+                "text": "Spleen",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which structure protects the lungs and heart?",
+        "answers": [
+            {
+                "text": "Vertebrae",
+                "correct": false
+            },
+            {
+                "text": "Ribcage",
+                "correct": true
+            },
+            {
+                "text": "Pelvis",
+                "correct": false
+            },
+            {
+                "text": "Skull",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the smallest bone in the human body?",
+        "answers": [
+            {
+                "text": "Femur",
+                "correct": false
+            },
+            {
+                "text": "Stapes",
+                "correct": true
+            },
+            {
+                "text": "Ulna",
+                "correct": false
+            },
+            {
+                "text": "Patella",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which type of cell division results in four genetically unique daughter cells?",
+        "answers": [
+            {
+                "text": "Mitosis",
+                "correct": false
+            },
+            {
+                "text": "Binary fission",
+                "correct": false
+            },
+            {
+                "text": "Meiosis",
+                "correct": true
+            },
+            {
+                "text": "Budding",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the main function of the large intestine?",
+        "answers": [
+            {
+                "text": "Digest carbohydrates",
+                "correct": false
+            },
+            {
+                "text": "Absorb water",
+                "correct": true
+            },
+            {
+                "text": "Produce digestive enzymes",
+                "correct": false
+            },
+            {
+                "text": "Store bile",
+                "correct": false
+            }
+        ]
+    }
+]

@@ -1,0 +1,632 @@
+[
+    {
+        "question": "What is the chemical symbol for water?",
+        "answers": [
+            {
+                "text": "H2O",
+                "correct": true
+            },
+            {
+                "text": "O2",
+                "correct": false
+            },
+            {
+                "text": "CO2",
+                "correct": false
+            },
+            {
+                "text": "HO",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which element has the atomic number 6?",
+        "answers": [
+            {
+                "text": "Carbon",
+                "correct": true
+            },
+            {
+                "text": "Oxygen",
+                "correct": false
+            },
+            {
+                "text": "Nitrogen",
+                "correct": false
+            },
+            {
+                "text": "Hydrogen",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the pH level of pure water?",
+        "answers": [
+            {
+                "text": "7",
+                "correct": true
+            },
+            {
+                "text": "5",
+                "correct": false
+            },
+            {
+                "text": "3",
+                "correct": false
+            },
+            {
+                "text": "9",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the chemical formula for methane?",
+        "answers": [
+            {
+                "text": "CH4",
+                "correct": true
+            },
+            {
+                "text": "C2H6",
+                "correct": false
+            },
+            {
+                "text": "CO2",
+                "correct": false
+            },
+            {
+                "text": "H2O",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which gas is most abundant in Earth's atmosphere?",
+        "answers": [
+            {
+                "text": "Oxygen",
+                "correct": false
+            },
+            {
+                "text": "Nitrogen",
+                "correct": true
+            },
+            {
+                "text": "Carbon Dioxide",
+                "correct": false
+            },
+            {
+                "text": "Hydrogen",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the main component of natural gas?",
+        "answers": [
+            {
+                "text": "Methane",
+                "correct": true
+            },
+            {
+                "text": "Ethane",
+                "correct": false
+            },
+            {
+                "text": "Propane",
+                "correct": false
+            },
+            {
+                "text": "Butane",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the molecular formula for glucose?",
+        "answers": [
+            {
+                "text": "C6H12O6",
+                "correct": true
+            },
+            {
+                "text": "C12H22O11",
+                "correct": false
+            },
+            {
+                "text": "C3H8O3",
+                "correct": false
+            },
+            {
+                "text": "C2H6O",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the process of converting a solid directly to gas called?",
+        "answers": [
+            {
+                "text": "Sublimation",
+                "correct": true
+            },
+            {
+                "text": "Condensation",
+                "correct": false
+            },
+            {
+                "text": "Deposition",
+                "correct": false
+            },
+            {
+                "text": "Evaporation",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which acid is found in the stomach?",
+        "answers": [
+            {
+                "text": "Hydrochloric acid",
+                "correct": true
+            },
+            {
+                "text": "Sulfuric acid",
+                "correct": false
+            },
+            {
+                "text": "Nitric acid",
+                "correct": false
+            },
+            {
+                "text": "Acetic acid",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which element is known as the 'King of Chemicals'?",
+        "answers": [
+            {
+                "text": "Sulfuric acid",
+                "correct": true
+            },
+            {
+                "text": "Nitric acid",
+                "correct": false
+            },
+            {
+                "text": "Hydrochloric acid",
+                "correct": false
+            },
+            {
+                "text": "Phosphoric acid",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the electron configuration of sodium (Na)?",
+        "answers": [
+            {
+                "text": "1s2 2s2 2p6 3s1",
+                "correct": true
+            },
+            {
+                "text": "1s2 2s2 2p6 3p1",
+                "correct": false
+            },
+            {
+                "text": "1s2 2s2 2p5 3s2",
+                "correct": false
+            },
+            {
+                "text": "1s2 2s2 2p4 3s1",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is a noble gas?",
+        "answers": [
+            {
+                "text": "Neon",
+                "correct": true
+            },
+            {
+                "text": "Oxygen",
+                "correct": false
+            },
+            {
+                "text": "Nitrogen",
+                "correct": false
+            },
+            {
+                "text": "Hydrogen",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the chemical formula for sodium chloride?",
+        "answers": [
+            {
+                "text": "NaCl",
+                "correct": true
+            },
+            {
+                "text": "NaOH",
+                "correct": false
+            },
+            {
+                "text": "Na2O",
+                "correct": false
+            },
+            {
+                "text": "NaCO3",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is Avogadro's number?",
+        "answers": [
+            {
+                "text": "6.022 x 10^23",
+                "correct": true
+            },
+            {
+                "text": "3.014 x 10^23",
+                "correct": false
+            },
+            {
+                "text": "1.602 x 10^19",
+                "correct": false
+            },
+            {
+                "text": "2.718 x 10^22",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which element has the highest electronegativity?",
+        "answers": [
+            {
+                "text": "Fluorine",
+                "correct": true
+            },
+            {
+                "text": "Oxygen",
+                "correct": false
+            },
+            {
+                "text": "Chlorine",
+                "correct": false
+            },
+            {
+                "text": "Bromine",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which element is known as the 'King of Chemicals'?",
+        "answers": [
+            {
+                "text": "Sulfur",
+                "correct": true
+            },
+            {
+                "text": "Oxygen",
+                "correct": false
+            },
+            {
+                "text": "Carbon",
+                "correct": false
+            },
+            {
+                "text": "Hydrogen",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the chemical symbol for gold?",
+        "answers": [
+            {
+                "text": "Au",
+                "correct": true
+            },
+            {
+                "text": "Ag",
+                "correct": false
+            },
+            {
+                "text": "Gd",
+                "correct": false
+            },
+            {
+                "text": "Go",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which acid is commonly found in vinegar?",
+        "answers": [
+            {
+                "text": "Acetic acid",
+                "correct": true
+            },
+            {
+                "text": "Citric acid",
+                "correct": false
+            },
+            {
+                "text": "Lactic acid",
+                "correct": false
+            },
+            {
+                "text": "Sulfuric acid",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the main gas found in the air we breathe?",
+        "answers": [
+            {
+                "text": "Oxygen",
+                "correct": false
+            },
+            {
+                "text": "Nitrogen",
+                "correct": true
+            },
+            {
+                "text": "Carbon dioxide",
+                "correct": false
+            },
+            {
+                "text": "Hydrogen",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the pH of a neutral solution?",
+        "answers": [
+            {
+                "text": "7",
+                "correct": true
+            },
+            {
+                "text": "0",
+                "correct": false
+            },
+            {
+                "text": "14",
+                "correct": false
+            },
+            {
+                "text": "1",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the chemical formula for salt?",
+        "answers": [
+            {
+                "text": "NaCl",
+                "correct": true
+            },
+            {
+                "text": "KCl",
+                "correct": false
+            },
+            {
+                "text": "CaCl2",
+                "correct": false
+            },
+            {
+                "text": "MgCl2",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which element has the highest atomic number?",
+        "answers": [
+            {
+                "text": "Uranium",
+                "correct": false
+            },
+            {
+                "text": "Oganesson",
+                "correct": true
+            },
+            {
+                "text": "Plutonium",
+                "correct": false
+            },
+            {
+                "text": "Radon",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the chemical formula for carbon dioxide?",
+        "answers": [
+            {
+                "text": "CO2",
+                "correct": true
+            },
+            {
+                "text": "CO",
+                "correct": false
+            },
+            {
+                "text": "C2O",
+                "correct": false
+            },
+            {
+                "text": "CO3",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the common name for H2O2?",
+        "answers": [
+            {
+                "text": "Hydrogen peroxide",
+                "correct": true
+            },
+            {
+                "text": "Water",
+                "correct": false
+            },
+            {
+                "text": "Hydrochloric acid",
+                "correct": false
+            },
+            {
+                "text": "Hydrogen sulfide",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which element is found in all organic compounds?",
+        "answers": [
+            {
+                "text": "Carbon",
+                "correct": true
+            },
+            {
+                "text": "Hydrogen",
+                "correct": false
+            },
+            {
+                "text": "Oxygen",
+                "correct": false
+            },
+            {
+                "text": "Nitrogen",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What type of bond is formed when two atoms share electrons?",
+        "answers": [
+            {
+                "text": "Covalent bond",
+                "correct": true
+            },
+            {
+                "text": "Ionic bond",
+                "correct": false
+            },
+            {
+                "text": "Hydrogen bond",
+                "correct": false
+            },
+            {
+                "text": "Metallic bond",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which element is a liquid at room temperature?",
+        "answers": [
+            {
+                "text": "Mercury",
+                "correct": true
+            },
+            {
+                "text": "Helium",
+                "correct": false
+            },
+            {
+                "text": "Hydrogen",
+                "correct": false
+            },
+            {
+                "text": "Bromine",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "question": "What is the most abundant element in the universe?",
+        "answers": [
+            {
+                "text": "Oxygen",
+                "correct": false
+            },
+            {
+                "text": "Hydrogen",
+                "correct": true
+            },
+            {
+                "text": "Carbon",
+                "correct": false
+            },
+            {
+                "text": "Nitrogen",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the process of splitting a nucleus into two or more smaller nuclei?",
+        "answers": [
+            {
+                "text": "Nuclear fission",
+                "correct": true
+            },
+            {
+                "text": "Nuclear fusion",
+                "correct": false
+            },
+            {
+                "text": "Radioactive decay",
+                "correct": false
+            },
+            {
+                "text": "Beta decay",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the main element in steel?",
+        "answers": [
+            {
+                "text": "Iron",
+                "correct": true
+            },
+            {
+                "text": "Carbon",
+                "correct": false
+            },
+            {
+                "text": "Zinc",
+                "correct": false
+            },
+            {
+                "text": "Copper",
+                "correct": false
+            }
+        ]
+    }
+]

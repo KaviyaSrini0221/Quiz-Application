@@ -1,0 +1,653 @@
+[
+    {
+        "question": "What is the acceleration due to gravity on Earth?",
+        "answers": [
+            {
+                "text": "9.8 m/s²",
+                "correct": true
+            },
+            {
+                "text": "1.6 m/s²",
+                "correct": false
+            },
+            {
+                "text": "7.8 m/s²",
+                "correct": false
+            },
+            {
+                "text": "5.5 m/s²",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the unit of force in the International System of Units?",
+        "answers": [
+            {
+                "text": "Newton",
+                "correct": true
+            },
+            {
+                "text": "Joule",
+                "correct": false
+            },
+            {
+                "text": "Watt",
+                "correct": false
+            },
+            {
+                "text": "Pascal",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the speed of light in a vacuum?",
+        "answers": [
+            {
+                "text": "3.0 x 10^8 m/s",
+                "correct": true
+            },
+            {
+                "text": "1.5 x 10^8 m/s",
+                "correct": false
+            },
+            {
+                "text": "3.0 x 10^5 m/s",
+                "correct": false
+            },
+            {
+                "text": "1.0 x 10^8 m/s",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the basic unit of electric current?",
+        "answers": [
+            {
+                "text": "Ampere",
+                "correct": true
+            },
+            {
+                "text": "Volt",
+                "correct": false
+            },
+            {
+                "text": "Ohm",
+                "correct": false
+            },
+            {
+                "text": "Coulomb",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the formula for kinetic energy?",
+        "answers": [
+            {
+                "text": "1/2 mv²",
+                "correct": true
+            },
+            {
+                "text": "mgh",
+                "correct": false
+            },
+            {
+                "text": "mc²",
+                "correct": false
+            },
+            {
+                "text": "mv",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the charge of an electron?",
+        "answers": [
+            {
+                "text": "-1.6 x 10^-19 C",
+                "correct": true
+            },
+            {
+                "text": "1.6 x 10^-19 C",
+                "correct": false
+            },
+            {
+                "text": "-1.6 x 10^19 C",
+                "correct": false
+            },
+            {
+                "text": "1.6 x 10^19 C",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the first law of thermodynamics?",
+        "answers": [
+            {
+                "text": "Energy cannot be created or destroyed",
+                "correct": true
+            },
+            {
+                "text": "Entropy of a closed system always increases",
+                "correct": false
+            },
+            {
+                "text": "For every action, there is an equal and opposite reaction",
+                "correct": false
+            },
+            {
+                "text": "Force equals mass times acceleration",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the frequency of a wave with a period of 0.01 seconds?",
+        "answers": [
+            {
+                "text": "100 Hz",
+                "correct": true
+            },
+            {
+                "text": "10 Hz",
+                "correct": false
+            },
+            {
+                "text": "0.1 Hz",
+                "correct": false
+            },
+            {
+                "text": "1 Hz",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the main principle behind a hydraulic lift?",
+        "answers": [
+            {
+                "text": "Pascal's principle",
+                "correct": true
+            },
+            {
+                "text": "Archimedes' principle",
+                "correct": false
+            },
+            {
+                "text": "Bernoulli's principle",
+                "correct": false
+            },
+            {
+                "text": "Newton's first law",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the value of Planck's constant?",
+        "answers": [
+            {
+                "text": "6.626 x 10^-34 Js",
+                "correct": true
+            },
+            {
+                "text": "3.00 x 10^8 Js",
+                "correct": false
+            },
+            {
+                "text": "1.38 x 10^-23 Js",
+                "correct": false
+            },
+            {
+                "text": "9.81 x 10^1 Js",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the unit of electric resistance?",
+        "answers": [
+            {
+                "text": "Ohm",
+                "correct": true
+            },
+            {
+                "text": "Volt",
+                "correct": false
+            },
+            {
+                "text": "Watt",
+                "correct": false
+            },
+            {
+                "text": "Ampere",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the potential difference between two points in an electric field called?",
+        "answers": [
+            {
+                "text": "Voltage",
+                "correct": true
+            },
+            {
+                "text": "Current",
+                "correct": false
+            },
+            {
+                "text": "Resistance",
+                "correct": false
+            },
+            {
+                "text": "Power",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the formula for Ohm's Law?",
+        "answers": [
+            {
+                "text": "V = IR",
+                "correct": true
+            },
+            {
+                "text": "P = IV",
+                "correct": false
+            },
+            {
+                "text": "E = mc²",
+                "correct": false
+            },
+            {
+                "text": "F = ma",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the unit of work in the International System of Units?",
+        "answers": [
+            {
+                "text": "Joule",
+                "correct": true
+            },
+            {
+                "text": "Newton",
+                "correct": false
+            },
+            {
+                "text": "Watt",
+                "correct": false
+            },
+            {
+                "text": "Pascal",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the wavelength of a wave with a frequency of 60 Hz and a speed of 300 m/s?",
+        "answers": [
+            {
+                "text": "5 m",
+                "correct": true
+            },
+            {
+                "text": "0.5 m",
+                "correct": false
+            },
+            {
+                "text": "50 m",
+                "correct": false
+            },
+            {
+                "text": "10 m",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the principle behind the conservation of momentum?",
+        "answers": [
+            {
+                "text": "Total momentum in a closed system remains constant",
+                "correct": true
+            },
+            {
+                "text": "Energy cannot be created or destroyed",
+                "correct": false
+            },
+            {
+                "text": "Entropy of a closed system always increases",
+                "correct": false
+            },
+            {
+                "text": "Force equals mass times acceleration",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the phenomenon where light bends around an obstacle?",
+        "answers": [
+            {
+                "text": "Diffraction",
+                "correct": true
+            },
+            {
+                "text": "Reflection",
+                "correct": false
+            },
+            {
+                "text": "Refraction",
+                "correct": false
+            },
+            {
+                "text": "Interference",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the term for the rate of doing work or the rate of energy transfer?",
+        "answers": [
+            {
+                "text": "Power",
+                "correct": true
+            },
+            {
+                "text": "Force",
+                "correct": false
+            },
+            {
+                "text": "Energy",
+                "correct": false
+            },
+            {
+                "text": "Voltage",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the standard unit of temperature in the International System of Units?",
+        "answers": [
+            {
+                "text": "Kelvin",
+                "correct": true
+            },
+            {
+                "text": "Celsius",
+                "correct": false
+            },
+            {
+                "text": "Fahrenheit",
+                "correct": false
+            },
+            {
+                "text": "Joule",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the formula for calculating pressure?",
+        "answers": [
+            {
+                "text": "P = F/A",
+                "correct": true
+            },
+            {
+                "text": "P = W/t",
+                "correct": false
+            },
+            {
+                "text": "P = V/I",
+                "correct": false
+            },
+            {
+                "text": "P = m/a",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the main principle behind an electromagnet?",
+        "answers": [
+            {
+                "text": "Electric current produces a magnetic field",
+                "correct": true
+            },
+            {
+                "text": "Like charges repel",
+                "correct": false
+            },
+            {
+                "text": "Opposite charges attract",
+                "correct": false
+            },
+            {
+                "text": "Energy cannot be created or destroyed",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the formula for calculating speed?",
+        "answers": [
+            {
+                "text": "Speed = Distance X Time",
+                "correct": false
+            },
+            {
+                "text": "Speed = Distance / Time",
+                "correct": true
+            },
+            {
+                "text": "Speed = Time / Distance",
+                "correct": false
+            },
+            {
+                "text": "Speed = Distance + Time",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is Newton's First Law of Motion also known as?",
+        "answers": [
+            {
+                "text": "Law of Acceleration",
+                "correct": false
+            },
+            {
+                "text": "Law of Inertia",
+                "correct": true
+            },
+            {
+                "text": "Law of Action-Reaction",
+                "correct": false
+            },
+            {
+                "text": "Law of Momentum",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the SI unit of force?",
+        "answers": [
+            {
+                "text": "Joule",
+                "correct": false
+            },
+            {
+                "text": "Newton",
+                "correct": true
+            },
+            {
+                "text": "Pascal",
+                "correct": false
+            },
+            {
+                "text": "Watt",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the speed of light in a vacuum?",
+        "answers": [
+            {
+                "text": "3.0 X 10^8 m/s",
+                "correct": true
+            },
+            {
+                "text": "3.0 X 10^6 m/s",
+                "correct": false
+            },
+            {
+                "text": "3.0 X 10^10 m/s",
+                "correct": false
+            },
+            {
+                "text": "3.0 X 10^4 m/s",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the primary source of energy for the Earth?",
+        "answers": [
+            {
+                "text": "The Moon",
+                "correct": false
+            },
+            {
+                "text": "The Sun",
+                "correct": true
+            },
+            {
+                "text": "The Stars",
+                "correct": false
+            },
+            {
+                "text": "The Planets",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the formula for calculating speed?",
+        "answers": [
+            {
+                "text": "Speed = Distance X Time",
+                "correct": false
+            },
+            {
+                "text": "Speed = Distance / Time",
+                "correct": true
+            },
+            {
+                "text": "Speed = Time / Distance",
+                "correct": false
+            },
+            {
+                "text": "Speed = Distance + Time",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is Newton's First Law of Motion also known as?",
+        "answers": [
+            {
+                "text": "Law of Acceleration",
+                "correct": false
+            },
+            {
+                "text": "Law of Inertia",
+                "correct": true
+            },
+            {
+                "text": "Law of Action-Reaction",
+                "correct": false
+            },
+            {
+                "text": "Law of Momentum",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the SI unit of force?",
+        "answers": [
+            {
+                "text": "Joule",
+                "correct": false
+            },
+            {
+                "text": "Newton",
+                "correct": true
+            },
+            {
+                "text": "Pascal",
+                "correct": false
+            },
+            {
+                "text": "Watt",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the speed of light in a vacuum?",
+        "answers": [
+            {
+                "text": "3.0 X 10^8 m/s",
+                "correct": true
+            },
+            {
+                "text": "3.0 X 10^6 m/s",
+                "correct": false
+            },
+            {
+                "text": "3.0 X 10^10 m/s",
+                "correct": false
+            },
+            {
+                "text": "3.0 X 10^4 m/s",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the primary source of energy for the Earth?",
+        "answers": [
+            {
+                "text": "The Moon",
+                "correct": false
+            },
+            {
+                "text": "The Sun",
+                "correct": true
+            },
+            {
+                "text": "The Stars",
+                "correct": false
+            },
+            {
+                "text": "The Planets",
+                "correct": false
+            }
+        ]
+    }
+]

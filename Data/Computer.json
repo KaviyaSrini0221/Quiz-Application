@@ -1,0 +1,632 @@
+[
+    {
+        "question": "What is the time complexity of binary search?",
+        "answers": [
+            {
+                "text": "O(n)",
+                "correct": false
+            },
+            {
+                "text": "O(log n)",
+                "correct": true
+            },
+            {
+                "text": "O(n^2)",
+                "correct": false
+            },
+            {
+                "text": "O(1)",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which data structure uses the principle of First In First Out (FIFO)?",
+        "answers": [
+            {
+                "text": "Stack",
+                "correct": false
+            },
+            {
+                "text": "Queue",
+                "correct": true
+            },
+            {
+                "text": "Tree",
+                "correct": false
+            },
+            {
+                "text": "Graph",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which sorting algorithm has the best average-case performance?",
+        "answers": [
+            {
+                "text": "Bubble sort",
+                "correct": false
+            },
+            {
+                "text": "Quick sort",
+                "correct": true
+            },
+            {
+                "text": "Insertion sort",
+                "correct": false
+            },
+            {
+                "text": "Selection sort",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the main difference between RAM and ROM?",
+        "answers": [
+            {
+                "text": "RAM is volatile, ROM is non-volatile",
+                "correct": true
+            },
+            {
+                "text": "RAM is non-volatile, ROM is volatile",
+                "correct": false
+            },
+            {
+                "text": "Both are volatile",
+                "correct": false
+            },
+            {
+                "text": "Both are non-volatile",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is not a programming language?",
+        "answers": [
+            {
+                "text": "Python",
+                "correct": false
+            },
+            {
+                "text": "Java",
+                "correct": false
+            },
+            {
+                "text": "HTML",
+                "correct": true
+            },
+            {
+                "text": "C++",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which protocol is used to retrieve email from a server?",
+        "answers": [
+            {
+                "text": "FTP",
+                "correct": false
+            },
+            {
+                "text": "HTTP",
+                "correct": false
+            },
+            {
+                "text": "IMAP",
+                "correct": true
+            },
+            {
+                "text": "SMTP",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What does SQL stand for?",
+        "answers": [
+            {
+                "text": "Structured Query Language",
+                "correct": true
+            },
+            {
+                "text": "Sequential Query Language",
+                "correct": false
+            },
+            {
+                "text": "Structured Question Language",
+                "correct": false
+            },
+            {
+                "text": "Simplified Query Language",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is a type of loop in programming?",
+        "answers": [
+            {
+                "text": "for",
+                "correct": true
+            },
+            {
+                "text": "if",
+                "correct": false
+            },
+            {
+                "text": "else",
+                "correct": false
+            },
+            {
+                "text": "switch",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which data structure allows insertion and deletion from both ends?",
+        "answers": [
+            {
+                "text": "Stack",
+                "correct": false
+            },
+            {
+                "text": "Queue",
+                "correct": false
+            },
+            {
+                "text": "Deque",
+                "correct": true
+            },
+            {
+                "text": "Graph",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "In computer graphics, what does GPU stand for?",
+        "answers": [
+            {
+                "text": "General Processing Unit",
+                "correct": false
+            },
+            {
+                "text": "Graphics Processing Unit",
+                "correct": true
+            },
+            {
+                "text": "Graphical Processing Unit",
+                "correct": false
+            },
+            {
+                "text": "Graph Processing Unit",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is an IP address?",
+        "answers": [
+            {
+                "text": "Internet Protocol Address",
+                "correct": true
+            },
+            {
+                "text": "Internet Provider Address",
+                "correct": false
+            },
+            {
+                "text": "Internet Point Address",
+                "correct": false
+            },
+            {
+                "text": "Internet Path Address",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is an example of an operating system?",
+        "answers": [
+            {
+                "text": "Microsoft Word",
+                "correct": false
+            },
+            {
+                "text": "Windows",
+                "correct": true
+            },
+            {
+                "text": "Adobe Photoshop",
+                "correct": false
+            },
+            {
+                "text": "Google Chrome",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the function of a compiler?",
+        "answers": [
+            {
+                "text": "To translate source code into machine code",
+                "correct": true
+            },
+            {
+                "text": "To edit text documents",
+                "correct": false
+            },
+            {
+                "text": "To browse the internet",
+                "correct": false
+            },
+            {
+                "text": "To manage computer hardware",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is a NoSQL database?",
+        "answers": [
+            {
+                "text": "MySQL",
+                "correct": false
+            },
+            {
+                "text": "Oracle",
+                "correct": false
+            },
+            {
+                "text": "MongoDB",
+                "correct": true
+            },
+            {
+                "text": "SQL Server",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What does the acronym HTTP stand for?",
+        "answers": [
+            {
+                "text": "HyperText Transfer Protocol",
+                "correct": true
+            },
+            {
+                "text": "HyperText Transmission Protocol",
+                "correct": false
+            },
+            {
+                "text": "Hyper Transfer Text Protocol",
+                "correct": false
+            },
+            {
+                "text": "HyperText Transfer Page",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the time complexity of binary search?",
+        "answers": [
+            {
+                "text": "O(n)",
+                "correct": false
+            },
+            {
+                "text": "O(log n)",
+                "correct": true
+            },
+            {
+                "text": "O(n^2)",
+                "correct": false
+            },
+            {
+                "text": "O(1)",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which data structure uses the principle of First In First Out (FIFO)?",
+        "answers": [
+            {
+                "text": "Stack",
+                "correct": false
+            },
+            {
+                "text": "Queue",
+                "correct": true
+            },
+            {
+                "text": "Tree",
+                "correct": false
+            },
+            {
+                "text": "Graph",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which sorting algorithm has the best average-case performance?",
+        "answers": [
+            {
+                "text": "Bubble sort",
+                "correct": false
+            },
+            {
+                "text": "Quick sort",
+                "correct": true
+            },
+            {
+                "text": "Insertion sort",
+                "correct": false
+            },
+            {
+                "text": "Selection sort",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the main difference between RAM and ROM?",
+        "answers": [
+            {
+                "text": "RAM is volatile, ROM is non-volatile",
+                "correct": true
+            },
+            {
+                "text": "RAM is non-volatile, ROM is volatile",
+                "correct": false
+            },
+            {
+                "text": "Both are volatile",
+                "correct": false
+            },
+            {
+                "text": "Both are non-volatile",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is not a programming language?",
+        "answers": [
+            {
+                "text": "Python",
+                "correct": false
+            },
+            {
+                "text": "Java",
+                "correct": false
+            },
+            {
+                "text": "HTML",
+                "correct": true
+            },
+            {
+                "text": "C++",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which protocol is used to retrieve email from a server?",
+        "answers": [
+            {
+                "text": "FTP",
+                "correct": false
+            },
+            {
+                "text": "HTTP",
+                "correct": false
+            },
+            {
+                "text": "IMAP",
+                "correct": true
+            },
+            {
+                "text": "SMTP",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What does SQL stand for?",
+        "answers": [
+            {
+                "text": "Structured Query Language",
+                "correct": true
+            },
+            {
+                "text": "Sequential Query Language",
+                "correct": false
+            },
+            {
+                "text": "Structured Question Language",
+                "correct": false
+            },
+            {
+                "text": "Simplified Query Language",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is a type of loop in programming?",
+        "answers": [
+            {
+                "text": "for",
+                "correct": true
+            },
+            {
+                "text": "if",
+                "correct": false
+            },
+            {
+                "text": "else",
+                "correct": false
+            },
+            {
+                "text": "switch",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which data structure allows insertion and deletion from both ends?",
+        "answers": [
+            {
+                "text": "Stack",
+                "correct": false
+            },
+            {
+                "text": "Queue",
+                "correct": false
+            },
+            {
+                "text": "Deque",
+                "correct": true
+            },
+            {
+                "text": "Graph",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "In computer graphics, what does GPU stand for?",
+        "answers": [
+            {
+                "text": "General Processing Unit",
+                "correct": false
+            },
+            {
+                "text": "Graphics Processing Unit",
+                "correct": true
+            },
+            {
+                "text": "Graphical Processing Unit",
+                "correct": false
+            },
+            {
+                "text": "Graph Processing Unit",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is an IP address?",
+        "answers": [
+            {
+                "text": "Internet Protocol Address",
+                "correct": true
+            },
+            {
+                "text": "Internet Provider Address",
+                "correct": false
+            },
+            {
+                "text": "Internet Point Address",
+                "correct": false
+            },
+            {
+                "text": "Internet Path Address",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is an example of an operating system?",
+        "answers": [
+            {
+                "text": "Microsoft Word",
+                "correct": false
+            },
+            {
+                "text": "Windows",
+                "correct": true
+            },
+            {
+                "text": "Adobe Photoshop",
+                "correct": false
+            },
+            {
+                "text": "Google Chrome",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What is the function of a compiler?",
+        "answers": [
+            {
+                "text": "To translate source code into machine code",
+                "correct": true
+            },
+            {
+                "text": "To edit text documents",
+                "correct": false
+            },
+            {
+                "text": "To browse the internet",
+                "correct": false
+            },
+            {
+                "text": "To manage computer hardware",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "Which of the following is a NoSQL database?",
+        "answers": [
+            {
+                "text": "MySQL",
+                "correct": false
+            },
+            {
+                "text": "Oracle",
+                "correct": false
+            },
+            {
+                "text": "MongoDB",
+                "correct": true
+            },
+            {
+                "text": "SQL Server",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "question": "What does the acronym HTTP stand for?",
+        "answers": [
+            {
+                "text": "HyperText Transfer Protocol",
+                "correct": true
+            },
+            {
+                "text": "HyperText Transmission Protocol",
+                "correct": false
+            },
+            {
+                "text": "Hyper Transfer Text Protocol",
+                "correct": false
+            },
+            {
+                "text": "HyperText Transfer Page",
+                "correct": false
+            }
+        ]
+    }
+]

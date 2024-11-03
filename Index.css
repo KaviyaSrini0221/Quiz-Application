@@ -1,0 +1,360 @@
+h1,h2,h3,p,ul,li,a,button {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+    color: #333;
+    line-height: 1.6;
+    background-color: cadetblue;
+    max-width: 100vw;
+    overflow-x: hidden;
+    box-sizing: border-box;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color: teal;
+    position: sticky;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+header .Logo {
+    font-size: 24px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    margin-left: 10%;
+}
+
+.navbar {
+    flex-grow: 1;
+    margin-left: auto;
+}
+
+.navbar ul {
+    list-style: none;
+    display: flex;
+    gap: 40px;
+    justify-content: center;
+}
+
+.navbar ul li {
+    position: relative;
+}
+
+.navbar ul li a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    display: block;
+}
+
+.navbar ul li a:hover {
+    background-color: #273746;
+    border-radius: 5px;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #444;
+    min-width: 160px;
+    z-index: 1;
+    top: 100%;
+    left: 0;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.dropdown-content a {
+    color: white;
+    text-decoration: none;
+    padding: 8px 12px;
+    display: block;
+    cursor: pointer;
+}
+
+.dropdown-content a:hover {
+    background-color: #555;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.right-nav {
+    display: flex;
+    gap: 5px;
+    transform: translateX(-50px);
+}
+
+.right-nav a {
+    margin-right: 15px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+    border-radius: 25px;
+    background-color: #222;
+    width: 35px;
+    height: 35px;
+}
+
+/* Quiz Section */
+main {
+    padding: 20px;
+}
+
+.quiz {
+    max-width: 500px;
+    margin: 40px auto;
+    padding: 30px;
+    background: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-sizing: border-box;
+}
+
+.quiz h2 {
+    font-size: 18px;
+    color: #001e4d;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.app h1{
+    font-size: 26px;
+    margin-left: 40%;
+    margin-top: 20px;
+}
+
+.btn {
+    background-color: #fff;
+    color: #222;
+    border: 1px solid #222;
+    font-weight: 500;
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    font-size: 16px;
+    border-radius: 5px;
+    text-align: left;
+    cursor: pointer;
+    transition: all 0.3s;
+}
+
+.btn:hover:not([disabled]) {
+    background-color: #222;
+    color: #fff;
+}
+
+.btn:disabled {
+    cursor: no-drop;
+}
+
+#next-btn {
+    background-color: #333;
+    color: #fff;
+    border: none;
+    width: 120px;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 20px;
+    margin-left: 76%;
+    display: none;
+}
+
+#next-btn:hover {
+    background-color: rgb(190, 3, 3);
+}
+
+#score {
+    display: none;
+}
+
+.correct {
+    background: #9aeabc;
+}
+
+.incorrect {
+    background: #ff9393;
+}
+
+/* Footer */
+.footer {
+    background: #333;
+    color: white;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    gap: 50px;
+}
+
+.footer-box {
+    display: flex;
+    flex-direction: column;
+    margin-left: 100px;
+    margin-right: 150px;
+}
+
+.footer-box h3 {
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+
+.footer-box a {
+    color: #979797;
+    margin-bottom: 0.6rem;
+    transition: all .50s ease;
+    text-decoration: none;
+}
+
+.footer-box a:hover {
+    transform: translate(-5px);
+    color: var(--text-color);
+}
+
+.social {
+    display: flex;
+    gap: 10px;
+}
+
+.social a {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 45px;
+    width: 45px;
+    background: #202020;
+    color: var(--text-color);
+    font-size: 20px;
+    border-radius: 50%;
+    margin-right: 5px;
+    transition: transform 0.6s;
+}
+
+.social a:hover {
+    background: cadetblue;
+    color: var(--bg-color);
+    transform: translate(-4px);
+}
+
+.copyright {
+    text-align: center;
+    margin-top: 5px;
+}
+
+.copyright h4 {
+    font-size: 14px;
+    text-align: center;
+    padding: 2px;
+    color: #151414;
+}
+
+/* ------------------------------------------------------------------------------------ */
+@media (max-width: 768px) {
+    header {
+        flex-direction: column;
+        align-items: flex-start;
+        width: 100%;
+    }
+
+    header .Logo {
+        margin-left: 250px;
+    }
+
+    .navbar li {
+        flex-direction: column;
+        align-items: flex;
+        gap: 5px;
+        margin-right: 35px;
+        margin-top: 15px;
+        font-size: 14px;
+    }
+
+    .right-nav ul {
+        visibility: hidden;
+        margin-bottom: -15px;
+    }
+
+    .footer {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .footer-box {
+        width: 100%;
+        text-align: left;
+    }
+
+    .footer-box a {
+        margin-bottom: 10px;
+        font-size: 18px;
+    }
+
+    .social a {
+        margin-right: 10px;
+    }
+
+    .copyright h4 {
+        text-align: center;
+        padding: 10px 0;
+        background-color: #222;
+        color: rgb(255, 255, 255);
+        font-size: 14px;
+    }
+
+    /* Make form elements responsive */
+    .quiz-form {
+        width: 100%;
+        padding: 10px;
+    }
+
+    .quiz-form fieldset {
+        border: none;
+        padding: 10px;
+    }
+
+    .quiz-form label {
+        display: block;
+        margin-bottom: 5px;
+    }
+
+    .quiz-form input[type="radio"] {
+        margin-right: 10px;
+    }
+
+    .quiz-form button {
+        width: 70px;
+        display: block;
+        padding: 10px;
+        background-color: #333;
+        color: white;
+        border: none;
+        cursor: pointer;
+    }
+
+    .quiz-form button:hover {
+        background-color: rgb(190, 3, 3);
+    }
+}
