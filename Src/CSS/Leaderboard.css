@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#quiz-container {
+    margin: 20px;
+}
+
+.btn-container {
+    margin-top: 10px;
+}
+
+.btn {
+    padding: 10px;
+    margin: 5px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+.correct {
+    background-color: green;
+}
+
+.incorrect {
+    background-color: red;
+}
+
+#leaderboard {
+    margin-top: 40px;
+}
+
+#leaderboard-list {
+    list-style: none;
+    padding: 0;
+}

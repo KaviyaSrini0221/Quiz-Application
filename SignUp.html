@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="Src/CSS/SignUp.css">
+  <script src="Src/SignUp.js" defer></script>
+  <title>Signup for Quizzy</title>
+</head>
+
+<body>
+  <div class="signup-box">
+    <h1>Sign Up</h1>
+    <h4>It's free and only takes a minute</h4>
+    <form name="regform" method="post" action="" onsubmit="return validation()">
+      <label>Name</label>
+      <input type="text" placeholder="" id="firstname" required>
+      <label>Age</label>
+      <input type="text" placeholder="" id="lastname" required>
+      <label>Email</label>
+      <input type="email" placeholder="" id="email" required>
+      <label>Username</label>
+      <input type="text" placeholder="" id="username" required>
+      <label>Password</label>
+      <input type="password" placeholder="" id="password" required>
+      <label>Confirm Password</label>
+      <input type="password" placeholder="" id="confirmpassword" required>
+      <button type="submit" class="btn">Submit</button>
+    </form>
+    <p>By clicking the Sign Up button, you agree to our<br>
+      <a href="#">Terms and Condition</a> and <a href="#">Policy Privacy</a>
+    </p>
+  </div>
+  <p class="para-2">Already have an account? <a href="login.html">Login here</a></p>
+</body>
+
+</html>
